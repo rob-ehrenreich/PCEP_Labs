@@ -12,11 +12,7 @@ def mysplit(strng):
         else:
             word = word + ch
     return mlst
-    #
-    # put your code here
-    #
-
-
+   
 print(mysplit("To be or not to be, that is the question"))
 print(mysplit("To be or not to be,that is the question"))
 print(mysplit("   "))

@@ -1,3 +1,5 @@
+#PCAP 2.4.1.6 LAB A LED Disaply
+
 #Program that simulates the work of a seven segment display LED device
 #Should display any non-negative integer number entered by the user
 #Added exception handling for anything other than non-zero integers entered

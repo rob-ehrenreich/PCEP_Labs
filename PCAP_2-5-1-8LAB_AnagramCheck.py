@@ -1,3 +1,5 @@
+#PCAP 2.5.1.8 LAB Anagrams
+
 user1 = input("Enter the first word: ")
 user2 = input("Enter the second word: ")
 

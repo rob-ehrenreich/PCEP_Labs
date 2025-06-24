@@ -1,3 +1,5 @@
+#PCAP 2.3.1.18 LAB Your Own Split
+
 def mysplit(strng):
     global mlst
     word=''

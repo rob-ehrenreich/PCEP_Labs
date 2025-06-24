@@ -1,3 +1,5 @@
+#PCAP 2.5.1.7 LAB Palindromes
+
 """
 Ask user for text, check whether entered text is a palindrome.
 Don't include spaces in the check and an empty string is a not a plaindrome

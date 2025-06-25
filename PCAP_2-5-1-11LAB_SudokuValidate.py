@@ -20,18 +20,6 @@ tdata2 = """195743862
 928671354
 254938671"""
 
-gridspaces = {
-    "1":([0,3],[0,3]),
-    "2":([0,3],[3,6]),
-    "3":([0,3],[6,9]),
-    "4":([3,6],[0,3]),
-    "5":([3,6],[3,6]),
-    "6":([3,6],[6,9]),
-    "7":([6,9],[0,3]),
-    "8":([6,9],[3,6]),
-    "9":([6,9],[6,9])
-}
-
 def spltstring(string):
     global rows
     global lstable
@@ -72,7 +60,6 @@ def rowcheck(matxin):
         if currow != valchk:
             return "No"
     return "Yes"
-
 
 def colcheck(matxin):
     for i in range(9):
